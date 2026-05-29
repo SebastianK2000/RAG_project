@@ -1,0 +1,22 @@
+--- FACTUAL QUESTIONS (Pytania faktograficzne) ---
+1. What is the default password and account name for the administrator (admin)?
+2. What file systems are supported for external USB drives connected to the NAS?
+3. What does it mean when the front STATUS LED blinks orange?
+4. What is the maximum supported capacity of a single volume?
+
+--- PROCEDURAL QUESTIONS (Pytania proceduralne) ---
+5. How to reset the device to factory settings step by step?
+6. How to create a new user in the Control Panel?
+7. How to enable the file sharing service (File Service) for Windows (SMB/CIFS)?
+8. How to set up a power schedule to automatically turn the device on and off?
+9. How to configure a Shared Folder for a Time Machine backup from a Mac?
+
+--- COMPARATIVE QUESTIONS (Pytania porównawcze) ---
+10. What is the difference between RAID 1 and Synology Hybrid RAID (SHR) disk configurations?
+11. What is the difference between a "soft" and "hard" reset of the device using the RESET button?
+12. What is the difference in permissions between a Guest account and a standard User account?
+
+--- NEGATIVE QUESTIONS (Pytania negatywne - powinny zwrócić brak informacji) ---
+13. How to replace a cracked screen in a laptop of a different brand?
+14. What is the current exchange rate for the Polish zloty against the euro?
+15. Does the warranty cover repair if a smartphone is water damaged?
